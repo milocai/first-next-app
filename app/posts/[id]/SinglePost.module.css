@@ -1,0 +1,13 @@
+.post {
+    margin: 10px auto;
+}
+
+.post a {
+    display: block;
+    text-align: right;
+}
+
+.post a:hover {
+    color: orange;
+    text-decoration: underline;
+}
